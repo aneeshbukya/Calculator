@@ -6,7 +6,11 @@ This Calculator Program is a simple yet functional calculator built using Python
 Features
 
 User-friendly graphical interface.
+
 Supports addition, subtraction, multiplication, and division.
+
 Handles common errors gracefully, such as zero division and syntax errors.
+
 Clear button to reset the calculator.
+
 Allows decimal input for precise calculations.
